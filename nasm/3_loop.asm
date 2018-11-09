@@ -60,7 +60,7 @@ loop_begin:
 
 	; conditional jump: if the previous comparsion instruction gives a
 	; 'greater than or equal to' result, jump to the address stored in
-	; the label 'done'; otherwise, execute the next instruction as usual.
+	; the operand label; otherwise, execute the next instruction as usual.
 	; There are several instructions for conditional jumps, which are
 	; grouped as 'Jcc' in the instruction set. For the 'jge' instruction,
 	; the instruction set says:
