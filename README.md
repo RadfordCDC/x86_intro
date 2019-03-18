@@ -1,3 +1,22 @@
+# Reverse Engineering Week 1 Exercises
+
+This code only runs under Linux x86\_64. In addition to a working linux install, you will need
+
+* [NASM](https://nasm.us/)
+* [Binutils](https://www.gnu.org/software/binutils/)
+* [GDB](https://www.gnu.org/software/gdb/)
+* [GNU Make](https://www.gnu.org/software/make/)
+
+which you can install using your favourite package manager.
+
+## Building
+
+To build the examples run
+
+    make
+
+---
+
 ### What is this?
 
 An introduction to x86 64-bit assembly, with thoroughly commented code,
