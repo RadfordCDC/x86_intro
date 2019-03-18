@@ -15,6 +15,15 @@ To build the examples run
 
     make
 
+## External Links
+
+In addition to the [official Intel manuals](https://software.intel.com/en-us/articles/intel-sdm), there are several online resources for the x86 and x86\_64 instruction sets:
+
+* [Félix Cloutier's x86 instruction reference](https://www.felixcloutier.com/x86/)
+* [MazeGen's x86 instruction reference](http://www.ref.x86asm.net/)
+* The [NASM manual](https://www.nasm.us/doc/nasmdoc0.html)
+* The [OSDev Wiki](https://wiki.osdev.org/Main_Page) has extensive documentation on all sorts of hardware minutiae, including [registers](https://wiki.osdev.org/CPU_Registers_x86-64) and [calling conventions](https://wiki.osdev.org/Calling_Conventions)
+
 ---
 
 ### What is this?
