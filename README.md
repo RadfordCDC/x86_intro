@@ -6,6 +6,7 @@ This code only runs under Linux x86\_64. In addition to a working linux install,
 * [Binutils](https://www.gnu.org/software/binutils/)
 * [GDB](https://www.gnu.org/software/gdb/)
 * [GNU Make](https://www.gnu.org/software/make/)
+* A C compiler such as [GCC](https://gcc.gnu.org/) or [Clang](https://clang.llvm.org/)
 
 which you can install using your favourite package manager.
 
